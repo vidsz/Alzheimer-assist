@@ -15,4 +15,3 @@ An android application to solve the issue of inconvenience faced by Alzheimer's 
 - Dart
 - Flutter
 - Firebase
-- Coingecko API
